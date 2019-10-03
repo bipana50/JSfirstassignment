@@ -1,0 +1,26 @@
+.container .wrapper img{
+width:200px;
+height: 200px;
+position: absolute;
+}
+.btn1{
+    margin-left: 20px;
+    margin-right: 20px;
+}
+.btn2{
+    margin-left: 20px;
+    margin-right: 20px;
+}
+.indicator-ul{
+    margin-left: 20px;
+}
+.indicator-li{
+    background-color: aqua;
+    width: 20px;
+    height: 20px;
+    float: left;
+    list-style: none;
+    margin-left: 10px;
+    margin-right: 10px;
+}
+

@@ -1,0 +1,12 @@
+.container{
+    width: 200px;
+    height: 200px;
+    position: relative;
+    overflow: hidden;
+    margin-left: 20px;
+}
+.wrapper{
+    width: 100%;
+    position: absolute;
+    left:0;
+}
